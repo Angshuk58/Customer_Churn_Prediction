@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-![image alt]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleartouch.in%2Fblog%2Fwhat-is-customer-churn-and-how-do-you-prevent-it%2F&psig=AOvVaw1eJYB5QgZeW-ww8cAr8-yX&ust=1736075777340000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC1r7T424oDFQAAAAAdAAAAABAE](https://miro.medium.com/v2/resize:fit:1400/0*d58iZ6esNNcfntQ7))
+![What is Customer Churn - Reasons & Ways to Reduce Churn](https://www.cleartouch.in/wp-content/uploads/2022/11/Customer-Churn.png)
 
 This repository contains the Jupyter notebook for predicting customer churn in a bank using a dataset that includes various customer attributes.
 

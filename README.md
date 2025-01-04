@@ -71,9 +71,9 @@ The dataset used for training and testing the model contains information about c
 
 ## Data Cleaning and Exploration
 The notebook performs data cleaning and exploratory data analysis to understand the distribution of various features and their relationship with the target variable (customer churn).
-### Label Encoding the Gender Column
-### Onehot Encoding the Geography and Card Type Column
-### Standard Scaling the numerical features
+### - Label Encoding the Gender Column
+### - Onehot Encoding the Geography and Card Type Column
+### - Standard Scaling the numerical features
 
 ## Model Training
 ANN model was build using Keras and Tensorflow to train and predict customer churn, including data preprocessing steps such as label encoding, onehot encoding and standard scaling.
@@ -91,7 +91,7 @@ The ANN model consists of the following layers:
 ## Results
 The results of the model training are evaluated to determine the performance of the predictive models.
 
--Accuracy: The model achieves an accuracy of 99.5% in predicting customer churn.
+- Accuracy: The model achieves an accuracy of 99.5% in predicting customer churn.
 
 - Confusion Matrix: Provides insights into true positives, false positives, true negatives, and false negatives.
 
